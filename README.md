@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Priyanka Vummadi! 👋
 
-<!--
-**VummadiPriyanka/VummadiPriyanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Future ML Engineer passionate about ethical AI and automation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I'm a final year AIML student, driven by a mission to become an ML Engineer solving impactful real-world problems. I believe in the power of technology to create positive change—especially when built ethically and responsibly.
+
+## 🔧 Skills
+
+- **Machine Learning**
+- **Java**
+- **Communication Skills**
+- **Content Writing**
+
+---
+
+## 🚀 Featured Project
+
+### 🩺 Skin Disease Detector using ML  
+A machine learning-powered tool designed to assist in early detection of skin diseases, aiming to improve healthcare accessibility and outcomes.
+
+---
+
+## 🛠 What I'm Working On
+
+Currently, I am:  
+- Enhancing my ML expertise with real-world projects  
+- Exploring ethical frameworks for AI development  
+- Building a strong GitHub portfolio to showcase my work  
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-vummadi-08a3822bb)
+
+---
+
+⭐ Thank you for visiting my GitHub! I'm open to learning, collaborating, and growing together 🚀
